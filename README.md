@@ -1,2 +1,2 @@
-# tyuday
+# uday
 it is my first repository
